@@ -1,5 +1,9 @@
 [![](assets/cover.gif)](#)
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/kristories"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+</p>
+
 <table>
     <tr>
         <td>
@@ -14,3 +18,7 @@
         </td>
     </tr>
 </table>
+
+<p align="center">
+    <a href="https://sourcerer.io/kristories"><img src="https://img.shields.io/badge/Check out full analytics SOURCERER-%230A0A0A.svg?style=for-the-badge" height=25></a>
+</p>
