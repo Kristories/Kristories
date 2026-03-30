@@ -1,9 +1,34 @@
 <div align="center">
-  <img src="cover.png" alt="Now, more than ever, it is crucial to support children worldwide so they can not only survive but also thrive"/>
+  <img src="cover.png" alt="Support children in crisis"/>
   <br/><br/>
 </div>
 
-In this critical moment, your support is imperative not just for the survival of children worldwide, but to empower them to thrive against the odds. Every donation can make a significant difference in transforming young lives, providing them with the hope and opportunities they desperately need.
+## 🚨 Act Now — Children Need You
 
-- [**Support the State of Palestine Appeal**](https://www.unicef.org/appeals/state-of-palestine) - Join UNICEF’s Humanitarian Action for Children.
-- [**Be a Beacon of Hope with Islamic Relief USA**](https://irusa.org/middle-east/palestine) - Your contribution can bring light to the lives of Palestinian children.
+Right now, thousands of children are living without access to food, clean water, or medical care.
+
+**This is not about politics. This is about survival.**
+
+Even a small contribution can:
+- Provide emergency food and clean water
+- Deliver medical aid to injured children
+- Support safe shelter in crisis areas
+
+---
+
+## 🤲 Donate Here
+
+- 👉 **UNICEF – State of Palestine Appeal**  
+  https://www.unicef.org/appeals/state-of-palestine
+
+- 👉 **Islamic Relief – Palestine Emergency Appeal**  
+  https://irusa.org/middle-east/palestine
+
+---
+
+## ⚠️ If Not Now, When?
+
+You don't need to give a lot.  
+But doing nothing is still a choice.
+
+Take 1 minute. Open the link. Help someone survive today.
